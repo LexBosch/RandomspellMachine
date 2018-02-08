@@ -1,0 +1,1455 @@
+0
+Resistance
+Conjuration
+Acid Splash
+Drench
+Divination
+Detect Magic
+Detect Poison
+Read Magic
+Enchantment
+Daze
+Evocation
+Breeze
+Dancing Lights
+Flare
+Light
+Penumbra
+Ray of Frost
+Scoop
+Spark
+Illusion
+Ghost Sound
+Haunted Fey Aspect
+Necromancy
+Bleed
+Disrupt Undead
+Touch of Fatigue
+Transmutation
+Jolt
+Mage Hand
+Mending
+Message
+Open/Close
+Root
+Scrivener’s Chant
+Universal
+Arcane Mark
+Prestidigitation
+Back to Top
+1st-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Adjuring Step
+Alarm
+Endure Elements
+Hold Portal
+Invisibility Alarm
+Line in the Sand
+Obscure Poison
+Peacebond
+Protection from Chaos/Evil/Good/Law
+Rite of Centered Mind
+Shield
+Shock Shield
+Stunning Barrier
+Sunder Breaker
+Wave Shield
+Winter Feathers
+With the Wind
+Conjuration
+Abundant Ammunition
+Adhesive Spittle
+Air Bubble
+Celestial Healing
+Corrosive Touch
+Desperate Weapon
+Expeditious Construction
+Glue Seal
+Grease
+Guardian Armor
+Icicle Dagger
+Infernal Healing
+Ki Arrow
+Linked Legacy
+Mage Armor
+Mount
+Mudball
+Obscuring Mist
+Secluded Grimoire
+Snowball
+Stone Shield
+Stumble Gap
+Summon Minor Monster
+Summon Monster I
+Unseen Servant
+Divination
+Anticipate Peril
+Comprehend Languages
+Cultural Adaptation
+Detect Charm
+Detect Metal
+Detect Secret Doors
+Detect Undead
+Discern Next of Kin
+Heightened Awareness
+Identify
+See Alignment
+Technomancy
+True Strike
+Enchantment
+Aphasia
+Bungle
+Charm Person
+Delusional Pride
+Hypnotism
+Keep Watch
+Lock Gaze
+Memorize Page
+Memory Lapse
+Moment of Greatness
+Sleep
+Unprepared Combatant
+Evocation
+Burning Hands
+Dancing Darkness
+Ear-Piercing Scream
+Flare Burst
+Floating Disk
+Gentle Breeze
+Hydraulic Push
+Magic Missile
+Shocking Grasp
+Snowball
+Thunderstomp
+Touch of Combustion
+Illusion
+Alter Musical Instrument
+Auditory Hallucination
+Blend
+Blurred Movement
+Clarion Call
+Color Spray
+Darting Duplicate
+Dazzling Blade
+Disguise Self
+Disguise Weapon
+Illusion of Calm
+Magic Aura
+Negative Reaction
+Open and Shut
+Shadow Trap
+Shadow Weapon
+Silent Image
+Vanish
+Ventriloquism
+Necromancy
+Bed of Iron
+Cause Fear
+Chill Touch
+Decompose Corpse
+Grasping Corpse
+Interrogation
+Itching Curse
+Phantom Blood
+Ray of Enfeeblement
+Ray of Sickening
+Repair Undead
+Restore Corpse
+Sculpt Corpse
+Touch of Blindness
+Transmutation
+Alchemical Tinkering
+Alter Winds
+Animate Rope
+Ant Haul
+Body Capacitance
+Bouncy Body
+Break
+Blood Money
+Burning Disarm
+Crafter’s Curse
+Crafter’s Fortune
+Damp Powder
+Dancing Lantern
+Emblazon Crest
+Endothermic Touch
+Enlarge Person
+Erase
+Expeditious Excavation
+Expeditious Retreat
+Fabricate Bullets
+Fabricate Disguise
+Feather Fall
+Forced Quiet
+Gravity Bow
+Handy Grapnel
+Jump
+Jury-Rig
+Liberating Command
+Lighten Object
+Long Arm
+Longshot
+Magic Weapon
+Marid’s Mastery
+Mirror Polish
+Mirror Strike
+Monkey Fish
+Poisoned Egg
+Polypurpose Panacea
+Recharge Innate Magic
+Reduce Person
+Refine Improvised Weapon
+Reinforce Armaments
+Snapdragon Fireworks
+Stone Fist
+Sundering Shards
+Swift Girding
+Touch of Gracelessness
+Touch of the Sea
+Transfer Tattoo
+Unerring Weapon
+Vocal Alteration
+Weaken Powder
+Windy Escape
+Wizened Appearance
+Youthful Appearance
+Back to Top
+2nd-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Anti-Summoning Shield
+Arcane Lock
+Book Ward
+Bullet Shield
+Bullet Ward
+Crimson Confession
+Death from Below
+Disrupt Link
+Endure Elements, Communal
+Escaping Ward
+Gird Ally
+Miserable Pity
+Obscure Object
+Protection from Arrows
+Protection from Chaos, Communal
+Protection from Evil, Communal
+Protection from Good, Communal
+Protection from Law, Communal
+Resist Energy
+Warding Weapon
+Conjuration
+Acid Arrow
+Alter Summoned Monster
+Arrow Eruption
+Blade Tutor’s Spirit
+Callback
+Cloud of Seasickness
+Create Pit
+Cushioning Bands
+Dust of Twilight
+Euphoric Cloud
+Fiery Shuriken
+Fog Cloud
+Glitterdust
+Instant Weapon
+Mount, Communal
+Mud Buddy
+Reloading Hands
+Retrieve Item
+Returning Weapon
+River Whip
+Shackle
+Slipstream
+Stone Call
+Stone Discus
+Summon Monster II
+Summon Swarm
+Vine Strike
+Web
+Web Shelter
+Whip of Spiders
+Divination
+Blood Transcription
+Carrion Compass
+Commune with Birds
+Create Treasure Map
+Detect Magic, Greater
+Detect Thoughts
+Determine Depth
+Elemental Speech
+Embrace Destiny
+Know Peerage
+Locate Object
+See Invisibility
+Share Language
+Share Memory
+Spell Gauge
+Track Ship
+Twisted Futures
+Enchantment
+Arcane Disruption
+Bestow Insight
+Bestow Weapon Proficiency
+Compassionate Ally
+Compulsive Liar
+Daze Monster
+Delay Pain
+Heckle
+Hidden Presence
+Hideous Laughter
+Investigative Mind
+Oppressive Boredom
+Passing Fancy
+Qualm
+Seducer’s Eyes
+Tactical Acumen
+Touch of Idiocy
+Touch of Mercy
+Unnatural Lust
+Evocation
+Admonishing Ray
+Aggressive Thundercloud
+Burning Arc
+Burning Gaze
+Burst of Radiance
+Contact Entity I
+Continual Flame
+Darkness
+Defensive Shock
+Elemental Touch
+Fiery Runes
+Fire Breath
+Fire Sneeze
+Flaming Sphere
+Flickering Lights
+Force Sword
+Frigid Touch
+Frost Fall
+Gust of Wind
+Gusting Sphere
+Ice Slick
+Imbue with Elemental Might
+Pilfering Hand
+Protective Penumbra
+Ricochet Shot
+Scorching Ray
+Shatter
+Sonic Scream
+Spontaneous Immolation
+Illusion
+Blur
+Dark Whispers
+Disguise Other
+Ghostly Disguise
+Haunting Mists
+Hidden Blades
+Hypnotic Pattern
+Invisibility
+Jitterbugs
+Mad Hallucination
+Magic Mouth
+Minor Image
+Mirror Image
+Misdirection
+Phantom Trap
+Shadow Anchor
+Shifted Steps
+Silent Table
+Symbol of Mirroring
+Twilight Haze
+Umbral Weapon
+Necromancy
+Blindness/Deafness
+Bloodbath
+Blood in the Water
+Bone Fists
+Boneshaker
+Brow Gasher
+Command Undead
+Companion Life Link
+Curse Terrain, Lesser
+Defending Bone
+Defoliate
+Dress Corpse
+False Life
+Ghoul Touch
+Languid Venom
+Life Pact
+Limp Lash
+Pernicious Poison
+Scare
+Sentry Skull
+Skinsend
+Spectral Hand
+Steal Voice
+Stricken Heart
+Touch of Bloodletting
+Unshakable Chill
+Transmutation
+Aboleth’s Lung
+Accelerate Poison
+Adhesive Blood
+Adoration
+Air Step
+Alter Self
+Amplify Stench
+Angelic Aspect, Lesser
+Animal Aspect
+Ant Haul, Communal
+Badger’s Ferocity
+Bear’s Endurance
+Blood Armor
+Blood Blaze
+Boiling Blood
+Bull’s Strength
+Buoyancy
+Carry Companion
+Cat’s Grace
+Certain Grip
+Codespeak
+Darkvision
+Destabilize Powder
+Disfiguring Touch
+Eagle’s Splendor
+Eldritch Conduit
+Extreme Flexibility
+Fear the Sun
+Fleshcurdle
+Fool’s Gold
+Fox’s Cunning
+Full Pouch
+Glide
+Greensight
+Hidden Knowledge
+Human Potential
+Kinetic Reverberation
+Knock
+Levitate
+Magic Siege Engine
+Make Whole
+Masterwork Transformation
+Merge with Familiar
+Mirror Hideaway
+Molten Orb
+Owl’s Wisdom
+Pouncing Fury
+Pyrotechnics
+Quick Change
+Raven’s Flight
+Recoil Fire
+Reinforce Armaments, Communal
+Rope Trick
+Scale Spikes
+Sculpt Simulacrum
+Silk To Steel
+Snow Shape
+Spider Climb
+Splinter Spell Resistance
+Stabilize Powder
+Staggering Fall
+Steal Breath
+Steal Size
+Stone Throwing
+Strong Wings
+Tattoo Potion
+Tears to Wine
+Telekinetic Assembly
+Telekinetic Volley
+Thunder Fire
+Time Shudder
+Tremor Blast
+Twisted Space
+Visualization of the Body
+Visualization of the Mind
+Whispering Wind
+Winged Sword
+Back to Top
+3rd-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Ablative Sphere
+Blade Snare
+Cloak of Winds
+Dispel Magic
+Explosive Runes
+Guardian Monument, Lesser
+Magic Circle against Chaos/Evil/Good/Law
+Nondetection
+Protection from Arrows, Communal
+Protection from Energy
+Quell Energy
+Resist Energy, Communal
+Scales of Deflection
+Selective Alarm
+Shield Companion
+Stunning Barrier, Greater
+Conjuration
+Ablative Barrier
+Aqueous Orb
+Ash Storm
+Conjure Carriage
+Force Anchor
+Gloomblind Bolts
+Ice Spears
+Infernal Challenger
+Iron Stake
+Mad Monkeys
+Nauseating Trail
+Pellet Blast
+Penumbral Disguise
+Phantom Driver
+Phantom Steed
+Planar Inquiry
+Rain of Frogs
+Returning Weapon, Communal
+Sepia Snake Sigil
+Silver Darts
+Sleet Storm
+Spiked Pit
+Stinking Cloud
+Storm Step
+Summon Monster III
+Summon Totem Creature
+Sundered Serpent Coil
+Swarm of Fangs
+Urban Step
+Waves of Blood
+Web Bolt
+Divination
+Arcane Sight
+Aura Sight
+Blood Biography
+Clairaudience/Clairvoyance
+Detect Anxieties
+Detect Desires
+Discern Value
+Find Fault
+Harrowing
+Insect Scouts
+Locate Weakness
+Pack Empathy
+Perfect Placement
+Pierce Disguise
+See Beyond
+Seek Thoughts
+Share Language, Communal
+Spherescry
+Spirit Bonds
+Tongues
+Unravel Destiny
+Voluminous Vocabulary
+Enchantment
+Bleed for Your Master
+Burdened Thoughts
+Charitable Impulse
+Deep Slumber
+Deflect Blame
+Draconic Malice
+Heroism
+Hold Person
+Lover’s Vengeance
+Matchmaker
+Mindlocked Messenger
+Nixie’s lure
+Open Book
+Psychic Leech
+Pugwampi’s Grace
+Rage
+Reckless Infatuation
+Shadow Enchantment
+Stage Fright
+Suggestion
+Unadulterated Loathing
+Evocation
+Air Geyser
+Battering Blast
+BlackLight
+Call the Void
+Campfire Wall
+Chain of Perdition
+Channel the Gift
+Contact Entity II
+Contingent Action
+Daylight
+Diamond Spray
+Distracting Cacophony
+Draconic Reservoir
+Elemental Aura
+Final Sacrifice
+Fireball
+Firestream
+Force Punch
+Heatstroke
+Hydraulic Torrent
+Lightning Bolt
+Motes of Dusk And Dawn
+Pain Strike
+Sheet Lightning
+Spotlight
+Thunderstomp, Greater
+Tiny Hut
+Trial of Fire and Acid
+Twilight Knife
+Vengeful Comets
+Wall of Split Illumination
+Wind Wall
+Illusion
+Adjustable Disguise
+Appearance of Life
+Audiovisual Hallucination
+Dazzling Blade, Mass
+Displacement
+Fearsome Duplicate
+Illusory Poison
+Illusory Script
+Invisibility Sphere
+Isolate
+Loathsome Veil
+Major Image
+Minor Dream
+Phantasmal Affliction
+Phantasmal Reminder
+Shadowmind
+Vision of Hell
+Wall of Nausea
+Necromancy
+Accursed Glare
+Animate Dead, Lesser
+Aura of Cannibalism
+Barrow Haze
+Deathwine
+Eldritch Fever
+Gentle Repose
+Halt Undead
+Healing Thief
+Howling Agony
+Hydrophobia
+Ki Leech
+Malediction
+Marionette Possession
+Ray of Exhaustion
+Sands of Time
+Symbol of Exsanguination
+Toxic Gift
+Unliving Rage
+Vampiric Touch
+Transmutation
+Air Breathing
+Ancestral Regression
+Anchored Step
+Anthropomorphic Animal
+Ape Walk
+Aristocrat’s Nightmare
+Armor Lock
+Assume Appearance
+Beast Shape I
+Blast Barrier
+Blink
+Blood Scent
+Blood Sentinel
+Blot
+Burrow
+Control Vermin
+Countless Eyes
+Darkvision, Communal
+Deft Digits
+Devolution
+Disable Construct
+Earth Tremor
+Enter Image
+Eruptive Pustules
+Excruciating Deformation
+Fins to Feet
+Fire Trail
+First World Revisions
+Flame Arrow
+Flash Fire
+Fly
+Fractions of Heal and Harm
+Gaseous Form
+Haste
+Heart of the Metal
+Hollow Blades
+Hostile Levitation
+Imbue With Addiction
+Improve trap
+Keen Edge
+Magic Weapon, Greater
+Monstrous Extremities
+Monstrous Physique I
+Paragon Surge
+Polymorph Familiar
+Prehensile Pilfer
+Pup Shape
+Raging Rubble
+Resinous Skin
+Scale Spikes, Greater
+Secret Page
+Shifting Sand
+Shrink Item
+Slow
+Spellsword
+Spider Climb, Communal
+Strangling Hair
+Tail Strike
+Touch Injection
+Undead Anatomy I
+Versatile Weapon
+Water Breathing
+Back to Top
+4th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Conjuration Foil
+Curse of Magic Negation
+Dimensional Anchor
+Dream Shield
+Enchantment Foil
+Fire Trap
+Firewalker’s Meditation
+Globe of Invulnerability, Lesser
+Medusa’s Bane
+Nondetection, Communal
+Protection from Energy, Communal
+Remove Curse
+Spellcrash, Lesser
+Stoneskin
+Suppress Primal Magic
+Tough Crowd
+True Form
+Ward Shield
+Conjuration
+Acid Pit
+Bind Sage
+Black Tentacles
+Celestial Healing, Greater
+Conjure Deadfall
+Create Armaments
+Dimension Door
+Fleshworm Infestation
+Ghost Wolf
+Infernal Healing, Greater
+Master’s Escape
+Minor Creation
+Phantom Chariot
+Phantom Steed, Communal
+Secure Shelter
+Solid Fog
+Summon Accuser
+Summon Monster IV
+Touch of Slime
+Trade Items
+Divination
+Akashic Communion
+Arcane Eye
+Detect Scrying
+Insect Spies
+Locate Creature
+Meticulous Match
+Named Bullet
+Scrying
+Share Senses
+Symbol of Revelation
+Tongues, Communal
+Vicarious View
+Watchful Animal
+Enchantment
+Antithetical Constraint
+Aura of the Unremarkable
+Charm Monster
+Confusion
+Control Summoned Creature
+Crushing Despair
+Daze, Mass
+Demanding Message
+Forgetful Slumber
+Geas, Lesser
+Hollow Heroism
+Mad Sultan’s Melody
+Malfunction
+Malicious Spite
+Moonstruck
+Overwhelming Grief
+Symbol of Laughter
+Terrible Remorse
+Triggered Suggestion
+Evocation
+Aggressive Thundercloud, Greater
+Agonize
+Ball Lightning
+Contingent Scroll
+Controlled Fireball
+Creeping Ice
+Deadman’s Contingency
+Detonate
+Dragon’s Breath
+Fire Shield
+Flaming Sphere, Greater
+Hurricane Blast
+Ice Storm
+Mydriatic Spontaneity
+Pyrotechnic Eruption
+Resilient Sphere
+River of Wind
+Shout
+Telekinetic Charge
+Unbearable Brightness
+Vitriolic Mist
+Volcanic Storm
+Wall of Fire
+Wall of Ice
+Illusion
+Complex Hallucination
+Dreadscape
+Fool’s Teleport
+Hallucinatory Terrain
+Horrific Doubles
+Illusion of Treachery
+Illusory Wall
+Instant Fake
+Invisibility, Greater
+Magic Aura, Greater
+Majestic Image
+Minor Phantom Object
+Phantasmal Asphyxiation
+Phantasmal Killer
+Quieting Weapons
+Rainbow Pattern
+Shadowform
+Shadow Barbs
+Shadow Conjuration
+Shadow Step
+Shocking Image
+Simulacrum, Lesser
+Wandering Star Motes
+Necromancy
+Aggravate Affliction
+Animate Dead
+Bestow Curse
+Bloatbomb
+Bloody Arrows
+Boneshatter
+Contagion
+Contingent Venom
+Curse Terrain
+Earsend
+Enervation
+False Life, Greater
+Familiar Melding
+Fear
+Flesh Puppet
+Hunger for Flesh
+Masochistic Shadow
+Sadomasochism
+Shadow Projection
+Skeleton Crew
+Umbral Infusion
+Wall of Blindness/Deafness
+Wall of Bone
+Transmutation
+Absorbing Inhalation
+Abyssal Vermin
+Adjustable Polymorph
+Age Resistance, Lesser
+Animal Aspect, Greater
+Assume Appearance, Greater
+Beast Shape II
+Calcific Touch
+Claim Identity
+Cloud Shape
+Conversing Wind
+Create Holds
+Curse of Burning Sleep
+Darkvision, Greater
+Earth Glide
+Elemental Body I
+Enlarge Person, Mass
+Eyes of the Void
+Fey Form I
+Firefall
+Hellmouth Lash
+Ignoble Form
+Innocuous Shape
+Irregular Size
+Liquefy
+Magic Siege Engine, Greater
+Make Whole, Greater
+Miasmatic Form
+Mirror Transport
+Mnemonic Enhancer
+Monstrous Physique II
+Obsidian Flow
+Rags to Riches
+Reduce Person, Mass
+Resilient Reservoir
+Revenant Armor
+Ride the Waves
+Rigor Mortis
+Scorching Ash Form
+Shadowy Haven
+Stone Shape
+Symbol of Slowing
+Tail Current
+Tailwind
+Temporary Graft
+Vermin Shape I
+Warp Metal
+Back to Top
+5th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Banishing Blade
+Break Enchantment
+Calm Air
+Covetous Aura
+Darkvault
+Dismissal
+Globe of Tranquil Water
+Guardian Monument, Greater
+Life Bubble
+Mage’s Private Sanctum
+Peacebond, Greater
+Siphon Magic
+Soothe Construct
+Spell Absorption
+Spellsteal
+Stoneskin, Communal
+Unbreakable Construct
+Wreath of Blades
+Conjuration
+Acidic Spray
+Callback, Greater
+Cloudkill
+Companion Transposition
+Corrosive Consumption
+Damnation Stride
+Duplicate Familiar
+Flash Forward
+Geyser
+Hostile Juxtaposition
+Hungry Pit
+Mage’s Faithful Hound
+Major Creation
+Planar Binding, Lesser
+Release The Hounds
+Roaming Pit
+Secret Chest
+Straitjacket
+Summon Infernal Host
+Summon Lesser Psychopomp
+Summon Monster V
+Teleport
+Unseen Crew
+Wall of Stone
+Whip of Centipedes
+Divination
+Contact Other Plane
+Foretell Failure
+Glimpse of Truth
+Locate Gate
+Mask From Divination
+Prying Eyes
+Symbol of Scrying
+Telepathic Bond
+Trace Teleport
+Enchantment
+Apparent Master
+Charm Person, Mass
+Compelling Rant
+Constricting Coils
+Curse of Disgust
+Dominate Person
+Feeblemind
+Grand Destiny
+Hold Monster
+Mind Fog
+Passing Fancy, Mass
+Pessimism
+Sleepwalking Suggestion
+Smug Narcissism
+Symbol of Sleep
+Touch of Slumber
+Evocation
+Augmenting Wall
+Cone of Cold
+Contact Entity III
+Fire Snake
+Icy Prison
+Interposing Hand
+Lightning Arc
+Pain Strike, Mass
+Runic Overload
+Sending
+Sonic Thrust
+Wall of Force
+Wall of Light
+Wall of Sound
+Illusion
+Charnel House
+Dream
+False Future
+False Vision
+Impossible Angles
+Major Phantom Object
+Mirage Arcana
+Nightmare
+Persistent Image
+Phantasmal Web
+Scripted Hallucination
+Seeming
+Shadow Evocation
+Symbol of Striking
+Necromancy
+Absorb Toxicity
+Astral Projection, Lesser
+Black Spot
+Blight
+Blood Boil
+Conditional Curse
+Daywalker
+Decollate
+Empathy Conduit
+Feast on Fear
+Flesh Puppet Horde
+Ghoul Army
+Magic Jar
+Plague Carrier
+Possess Object
+Red Hand of the Killer
+Repair Undead, Mass
+Soulswitch
+Suffocation
+Summoner Conduit
+Symbol of Pain
+Torpid Reanimation
+Vampiric Shadow Shield
+Waves of Fatigue
+Transmutation
+Angelic Aspect
+Animal Growth
+Baleful Polymorph
+Beast Shape III
+Caustic Blood
+Dissolution
+Echolocation
+Elemental Body II
+Energy Siege Shot
+Fabricate
+Fickle Winds
+Flexile Curse
+Geniekind
+Gift of the Deep
+Half-blood Extraction
+Hungry Earth
+Lighten Object, Mass
+Master’s Mutation
+Monstrous Physique III
+Ooze Form I
+Open Arms
+Overland Flight
+Passwall
+Planar Adaptation
+Plant Shape I
+Polymorph
+Rapid Repair
+Rubberskin
+Rune of Ruin
+Shapechanger’s Gift
+Slough
+Telekinesis
+Transmute Mud to Rock
+Transmute Rock to Mud
+Transplant Visage
+Treasure Stitching
+Undead Anatomy II
+Vermin Shape II
+Vile Dog Transformation
+Universal
+Permanency
+Back to Top
+6th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Antimagic Field
+Dispel Magic, Greater
+Dust Ward
+Globe of Invulnerability
+Guards and Wards
+Repulsion
+Spellcrash
+Symbol of Sealing
+Undeath Ward
+Conjuration
+Acid Fog
+Chains of Light
+Conjure Black Pudding
+Cruel Jaunt
+Getaway
+Ice Crystal Teleport
+Planar Binding
+Summon Monster VI
+Summon Vanth
+Treacherous Teleport
+Wall of Iron
+Whip of Ants
+Divination
+Analyze Dweomer
+Battlemind Link
+Legend Lore
+Named Bullet, Greater
+Telepathy
+True Seeing
+Enchantment
+Cloak of Dreams
+Envious Urge
+Geas/Quest
+Heroism, Greater
+Phobia
+Serenity
+Shadow Enchantment, Greater
+Suggestion, Mass
+Symbol of Distraction
+Symbol of Persuasion
+Unconscious Agenda
+Utter Contempt
+Vengeful Outrage
+Evocation
+Chains of Fire
+Chain Lightning
+Cold Ice Strike
+Contagious Flame
+Contingency
+Decapitate
+Defending Sword
+Elemental Assessor
+Forceful Hand
+Freezing Sphere
+Hellfire Ray
+Leashed Shackles
+Mage’s Decree
+Path of the Winds
+Sirocco
+Spellblight Jinx
+Illusion
+Baleful Shadow Transmutation
+Illusion of Treachery, Greater
+Mislead
+Night Terrors
+Permanent Image
+Phantasmal Putrefaction
+Programmed Image
+Shadow Transmutation
+Shadow Walk
+Transfer Familiar
+Triggered Hallucination
+Veil
+Necromancy
+Banshee Blast
+Circle of Death
+Contagion, Greater
+Create Undead
+Curse, Major
+Curse Terrain, Greater
+Eyebite
+Flesh Wall
+Symbol of Fear
+Undeath to Death
+Unwilling Shield
+Wither Limb
+Transmutation
+Age Resistance
+Bear’s Endurance, Mass
+Beast Shape IV
+Break, Greater
+Bull’s Strength, Mass
+Cat’s Grace, Mass
+Claim Identity, Greater
+Control Water
+Dimensional Blade
+Disintegrate
+Eagle’s Splendor, Mass
+Eldritch Conduit, Greater
+Elemental Body III
+Emblem of Greed
+Enemy Hammer
+Energy Siege Shot, Greater
+Fey Form II
+Flesh to Stone
+Fluid Form
+Form of the Alien Dragon I
+Form of the Dragon I
+Form of the Exotic Dragon I
+Fox’s Cunning, Mass
+Hardening
+Human Potential, Mass
+Impart Mind
+Mage’s Lucubration
+Monstrous Physique IV
+Move Earth
+Oasis
+Ooze Form II
+Owl’s Wisdom, Mass
+Plant Shape II
+Sabotage Construct
+Sonic Form
+Stone to Flesh
+Tar Pool
+Transformation
+Undead Anatomy III
+Back to Top
+7th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Banishment
+Circle of Clarity
+Expend
+Magnetic Field
+Sequester
+Spell Turning
+Teleport Trap
+Conjuration
+Caustic Eruption
+Create Demiplane, Lesser
+Dimensional Bounce
+Hostile Juxtaposition, Greater
+Instant Summons
+Joyful Rapture
+Mage’s Magnificent Mansion
+Phase Door
+Planar Refuge
+Plane Shift
+Rampart
+Summon Monster VII
+Teleport, Greater
+Teleport Object
+Walk through Space
+Divination
+Arcane Sight, Greater
+Insect Spies, Greater
+Scrying, Greater
+Vision
+Enchantment
+Crime Wave
+Demanding Message, Mass
+Hold Person, Mass
+Hollow Heroism, Greater
+Insanity
+Lost Legacy
+Power Word Blind
+Pox of Rumors
+Symbol of Stunning
+Waves of Ecstasy
+Evocation
+Archon’s Trumpet
+Contact Entity IV
+Delayed Blast Fireball
+Forcecage
+Grasping Hand
+Hungry Darkness
+Ki Shout
+Mage’s Sword
+Mydriatic Spontaneity, Mass
+Prismatic Spray
+Scouring Winds
+Vortex
+Illusion
+False Vision, Greater
+Invisibility, Mass
+Lunar Veil
+Permanent Hallucination
+Phantasmal Revenge
+Project Image
+Shadow Conjuration, Greater
+Simulacrum
+Subjective Reality
+Necromancy
+Control Undead
+Create Variant Mummy
+Epidemic
+Finger of Death
+Hunger for Flesh, Mass
+Plague Storm
+Plundered Power
+Symbol of Weakness
+Temporary Resurrection
+Umbral Strike
+Waves of Exhaustion
+Transmutation
+Age Resistance, Greater
+Arcane Cannon
+Artificer’s Curse
+Black Tentacles, Greater
+Control Construct
+Control Weather
+Elemental Body IV
+Ethereal Jaunt
+Fey Form III
+Firebrand
+Fly, Mass
+Form of the Alien Dragon II
+Form of the Exotic Dragon II
+Form of the Dragon II
+Giant Form I
+Ice Body
+Legendary Proportions
+Magic Army
+Magical Beast Shape
+Memory of Function
+Ooze Form III
+Particulate Form
+Planar Adaptation, Mass
+Plant Shape III
+Polymorph, Greater
+Resonating Word
+Reverse Gravity
+Shapechanger’s Gift, Greater
+Statue
+Submerge Ship
+Universal
+Limited Wish
+Back to Top
+8th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Dimensional Lock
+Mind Blank
+Prismatic Wall
+Protection from Spells
+Spell Absorption, Greater
+Spellscar
+Symbol of Dispelling
+Conjuration
+Call Construct
+Create Demiplane
+Fey Gate
+Incendiary Cloud
+Instant Summons, Greater
+Maze
+Planar Binding, Greater
+Rain of Arrows
+Rift of Ruin
+Seamantle
+Spellcrash, Greater
+Summon Monster VIII
+Trap the Soul
+Wall of Lava
+Divination
+Discern Location
+Moment of Prescience
+Prediction of Failure
+Prying Eyes, Greater
+Enchantment
+Antipathy
+Binding
+Charm Monster, Mass
+Demand
+Euphoric Tranquility
+Irresistible Dance
+Life of Crime
+Power Word Stun
+Symbol of Insanity
+Sympathy
+Evocation
+Clenched Fist
+Curse of Night
+Polar Ray
+Shout, Greater
+Stormbolts
+Sunburst
+Telekinetic Sphere
+Illusion
+Scintillating Pattern
+Screen
+Shadow Evocation, Greater
+Necromancy
+Clone
+Create Greater Undead
+Curse Terrain, Supreme
+Death Clutch
+Horrid Wilting
+Orb of the Void
+Symbol of Death
+Umbral Infusion, Mass
+Transmutation
+Angelic Aspect, Greater
+Form of the Alien Dragon III
+Form of the Exotic Dragon III
+Form of the Dragon III
+Frightful Aspect
+Giant Form II
+Iron Body
+Phasic Challenge
+Polymorph Any Object
+Temporal Stasis
+Undead Anatomy IV
+Wandering Weather
+Back to Top
+9th-Level Sorcerer/Wizard Spells
+Spell Name
+Abjuration
+Freedom
+Impenetrable Veil
+Imprisonment
+Mage’s Disjunction
+Mage’s Excellent Enclosure
+Mind Blank, Communal
+Prismatic Sphere
+Spellbane
+Symbol of Vulnerability
+Wall of Suppression
+Conjuration
+Clashing Rocks
+Create Demiplane, Greater
+Gate
+Interplanetary Teleport
+Maze of Madness and Suffering
+Refuge
+Resplendent Mansion
+Summon Monster IX
+Teleportation Circle
+Tsunami
+Wooden Phalanx
+Divination
+Foresight
+Enchantment
+Dominate Monster
+Heroic Invocation
+Hold Monster, Mass
+Overwhelming Presence
+Power Word Kill
+Symbol of Strife
+Evocation
+Crushing Hand
+Defending Sword, Mass
+Icy Prison, Mass
+Meteor Swarm
+Ride the Lightning
+Winds of Vengeance
+Illusion
+Shades
+Shadow Transmutation, Greater
+Weird
+Necromancy
+Astral Projection
+Canopic Conversion
+Cursed Earth
+Energy Drain
+Massacre
+Soul Bind
+Suffocation, Mass
+Wail of the Banshee
+Transmutation
+Curse of Fell Seasons
+Etherealness
+Fey Form IV
+Fiery Body
+Salvage
+Scribe’s Binding
+Shapechange
+Time Stop
+Transmute Blood to Acid
+Transmute Golem
+World Wave
+Universal
+Wish
